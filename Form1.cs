@@ -272,9 +272,6 @@ namespace AdvnaceCalculator
             textBox1.Text = Convert.ToString(a, 8);
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
+        
     }
 }
