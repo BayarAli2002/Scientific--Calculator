@@ -1,0 +1,10 @@
+C:\Users\aliba\source\repos\AdvnaceCalculator\AdvnaceCalculator\bin\Debug\AdvnaceCalculator.exe.config
+C:\Users\aliba\source\repos\AdvnaceCalculator\AdvnaceCalculator\bin\Debug\AdvnaceCalculator.exe
+C:\Users\aliba\source\repos\AdvnaceCalculator\AdvnaceCalculator\bin\Debug\AdvnaceCalculator.pdb
+C:\Users\aliba\source\repos\AdvnaceCalculator\AdvnaceCalculator\obj\Debug\AdvnaceCalculator.csproj.AssemblyReference.cache
+C:\Users\aliba\source\repos\AdvnaceCalculator\AdvnaceCalculator\obj\Debug\AdvnaceCalculator.Form1.resources
+C:\Users\aliba\source\repos\AdvnaceCalculator\AdvnaceCalculator\obj\Debug\AdvnaceCalculator.Properties.Resources.resources
+C:\Users\aliba\source\repos\AdvnaceCalculator\AdvnaceCalculator\obj\Debug\AdvnaceCalculator.csproj.GenerateResource.cache
+C:\Users\aliba\source\repos\AdvnaceCalculator\AdvnaceCalculator\obj\Debug\AdvnaceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\aliba\source\repos\AdvnaceCalculator\AdvnaceCalculator\obj\Debug\AdvnaceCalculator.exe
+C:\Users\aliba\source\repos\AdvnaceCalculator\AdvnaceCalculator\obj\Debug\AdvnaceCalculator.pdb
